@@ -1,4 +1,4 @@
-# GO - Linguagem Google
+# Go - Estudo da linguagem
 
 <img src="https://deinfo.uepg.br/~alunoso/2020/SO/GO/GO/golang-2.png">
 
